@@ -30,7 +30,7 @@ namespace App_Git
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
-            //je rentre du texte
+            //je rentre du texte encore
             myButton.Content = "Clicked";
         }
     }
